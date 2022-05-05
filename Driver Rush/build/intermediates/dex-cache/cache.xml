@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-d12ecc7f68268735b4ede52d76f55ff35ec534eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-48d277901c2bbee09ae083af1a2530c61a45551c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-4097c98a766df2a290192457b9c0d16fa2ebd5ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-3c043a2a0d9e2ece012b21419a0b3c78c67840f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-c9efb144000b181ed43db3841507530bc1b190ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-51bef6fa6a3be15ea67cf28dfff6bbbbf2d3aebf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-c8a049215c6bdbac7ef1b81d13a4378c0bac9133.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-56b1dd2f4c33d0c2b3be0f610e7070bf47c2d1d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\Driver Rush\bobEngine\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b6a2241a82397e9e2f21c2466d9d56b7d8a7c40f">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-73da7d8abeca3c92f726f7060d92979ee0d39290.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\internal_impl-22.0.0-435b5f4ed90c20c34a08c9b401b653636787566b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-0b48f18123c696d3ffcef16bf105bf7cc60ecba5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-91927b6ffbd71b2be6abaf0d7b8cb4527777841f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-d4db207106f5464982dcaeb7e93db04d5d2276ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-a79f03b50b53f5a20ce5235813ff8e07082e7ef5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-e8526ac1f33e3c6143aa730a7c7e4a10e283f2ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\support-annotations-22.0.0-02f8dd8fd7d2f53cdb08af9b18c2d06095359731.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-9242374242af4ad96bfa2e51bc7f8b5fe59eae37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-ef16654d67e35c35a9db91cd8b6d4afc5c25ed44.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-b7b6911557f9c1282828d18869a3780e8c5bdcd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-3495392700b03f2c877f6c689966dd80758914b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-c13594746f24c7431f8fe3e5f5bca8713346d136.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-a984973714fec7b8ce15f26e3f2e31e41b2e0042.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-36c98db1fa4852e38b2bf8299c16ac5ce9a73850.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Dilawer\Desktop\Driver Rush\driverRush\build\intermediates\pre-dexed\release\classes-c5f8bb2dbe171cc2814e8c4263c6f330ced327f8.jar" />
+    </item>
+
+</items>

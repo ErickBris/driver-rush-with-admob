@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Driver Rush</string>
+
+    <string name="title_activity_credits">Credits</string>
+
+    <string name="about_header">About</string>
+
+    <string name="bg_music_header">Background Music</string>
+
+    <string name="gfx_artist_header">Graphic Artist</string>
+
+    <string name="about_text">Driver Rush is a game created with bobEngine.</string>
+
+    <string name="bg_music_text" tools:ignore="Typos">Beep Beep Beep Level Music - Martin Nilsson a.k.a. skrjablin</string>
+
+    <string name="gfx_artist_text">Acitrus</string>
+
+    <string name="company_logo_description">Company Logo</string>
+
+    <string name="more_by_bobby">More games by Acitrus</string>
+
+    <string name="programmer_header">Programmer</string>
+
+    <string name="programmer_text">Acitrus Studio</string>
+
+</resources>
